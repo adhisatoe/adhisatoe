@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhisatoe
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity & Web 3.0
+- 🌱 I’m currently learning Web 3.0
 - 💞️ I’m looking to collaborate on NFT works
 - 📫 How to reach me glowinmale@gmail.com
 
